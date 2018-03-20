@@ -1,0 +1,42 @@
+header
+
+Compose
+
+Inbox 4
+Starred
+Sent
+Draft
+Spam Clean
+All
+
+Chat
+
+Accounts
+Personal
+Professional
+Project
+Old
+
+Your message has been successfully sent!
+
+Inbox
+Personal
+ 
+Back
+Archive
+Spam
+Delete
+Folders
+Tags
+
+Tim Berners-Lee	I've invented the WWW!	March 6
+Vinton Cerf	I can help you configuring your router ;)	March 6
+...	...	March 6
+...	...	March 6
+...	...	March 6 
+ 
+Show next 100 messages
+
+Security advise - Please consider activating 2-factor authentication for your e-mail. ×
+
+footer
