@@ -1,0 +1,22 @@
+Invest now
+
+Cryptocurrencies
+Top cryptocurrencies by market cap.
+Symbol	Name	Price	% 24h
+BTC/USD	Bitcoin	$8,281.75	-1.77%
+ETH/USD	Ethereum	$827.42	0
+XRP/USD	Ripple	$0.764274	+7.07%
+
+Stocks
+Top stocks by today's volume.
+Symbol	Name	Price	% 24h
+AAPL	Apple	$159.54	-2.14%
+AMZN	Amazon	$1,416.78	-1.81%
+GOOG	Alphabet	$1,048.58	+1.96%
+
+Commissions
+2018 Commissions, taxes included.
+Trades/month	Stocks	Options	ETFs	Bonds and CDs	Mutual funds	Other markets
+1-10	$4.95/trade	$4.95/trade + $0.60/contract	$0	$1/bond	$0 on purchase	$6.95/trade
+11-50	$3.95/trade	$3.95/trade + $0.50/contract	$0	$0.50/bond	$0 on purchase	$6.95/trade
+51-100	$2.95/trade	$2.95/trade + $0.40/contract	$0	$0.20/bond	$0 on purchase	$6.95/trade
